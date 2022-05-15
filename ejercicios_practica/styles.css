@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(237, 221, 221);
+}
+
+h1 {
+    font-family: "Montserrat";
+    size: 30px;
+    text-shadow: 3px 3px 3px;
+    color: rgb(72, 72, 72);
+    padding-left: 1cm;
+
+
+}
+p {
+    font-family: "Roboto";
+    size: 20px;
+    padding-left: 2cm;
+    text-align: left;
+    
+}
+
+ul {
+    font-family: "Roboto";
+    size: 25px;
+    padding-left: 2cm;
+    text-align: left;
+
+}
+
+i {
+    padding-left: 1cm;
+}
